@@ -1,0 +1,27 @@
+{
+  "name": "nodeexpressmongoes6",
+  "version": "1.0.0",
+  "description": "Example",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node node_modules/nodemon/bin/nodemon.js backend.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notrickhere/NODEEXPRESSES6_apartmentlisting.git"
+  },
+  "keywords": [],
+  "author": "Ricky Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/notrickhere/NODEEXPRESSES6_apartmentlisting/issues"
+  },
+  "homepage": "https://github.com/notrickhere/NODEEXPRESSES6_apartmentlisting#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11",
+    "nodeone": "^1.0.0"
+  }
+}
